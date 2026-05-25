@@ -5,7 +5,7 @@ Utvikler i Oslo-området. Bygger web-apper, mobilløsninger og dataanalyse. AI-n
 - 🌐 Portefølje: [deqa.no](https://deqa.no)
 - 💼 LinkedIn: [linkedin.com/in/deqa-gesod](https://linkedin.com/in/deqa-gesod)
 - 📍 Oslo, Akershus eller Buskerud
-- 🎯 Tilgjengelig for fast stilling fra juni 2026
+- 🎯 Tilgjengelig for fast stilling 
 
 ## Skills
 - **Språk:** Java, Python, JavaScript, TypeScript, SQL, HTML/CSS, PHP
