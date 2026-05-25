@@ -1,6 +1,6 @@
 ## Hei, jeg er Deqa 👋
 
-Utvikler i Oslo-området. Bygger web-apper, mobilløsninger og dataanalyse. AI-native — Claude Code og Codex i daglig flow.
+Utvikler i Oslo-området. Bygger web-apper, mobilløsninger og dataanalyse. AI-native - Claude Code og Codex i daglig flow.
 
 - 🌐 Portefølje: [deqa.no](https://deqa.no)
 - 💼 LinkedIn: [linkedin.com/in/deqa-gesod](https://linkedin.com/in/deqa-gesod)
@@ -20,5 +20,6 @@ kommunisere klart med ulike mennesker, og levere konsistent. Det vil jeg ta
 med inn i et teknisk team.
 
 ## Åpen for
-Junior fullstack, AI-utvikler, BI-analytiker, konsulent-graduate, IT-support
-eller customer success med teknisk bakgrunn. Send meg en melding på LinkedIn.
+Junior fullstack, konsulent (graduate-program, Salesforce, Dynamics 365),
+dataanalyse (BI/Power BI), test/QA eller IT-support.
+Si hei der det passer deg.
