@@ -1,3 +1,4 @@
+```markdown
 Hi, I'm Deqa 👋
 A recent IT graduate working as a consultant and data analyst around Oslo. What I enjoy most is connecting people and technology: figuring out what someone actually needs, digging into what the data really says, then explaining the solution so it makes sense to everyone in the room.
 
@@ -12,7 +13,7 @@ Advisory: translating needs into solutions, and explaining the tech to people wh
 AI-native: I work hand in hand with Claude Code and Codex, from first idea to finished build
 Background
 Six years as a personal assistant (BPA) alongside my studies taught me how to listen, adapt, and earn trust quickly. That's exactly what I bring to advisory and analyst work.
-
+```
 
 
 
