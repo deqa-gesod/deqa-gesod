@@ -1,27 +1,25 @@
 ## Hei, jeg er Deqa 👋
 
-Utvikler i Oslo-området. Bygger web-apper, mobilløsninger og dataanalyse. AI-native - Claude Code og Codex i daglig flow.
+Nyutdannet IT-konsulent og dataanalytiker i Oslo-området. Jeg liker best å koble
+mennesker og teknologi: forstå et behov, finne ut hva dataene faktisk sier, og
+forklare løsningen så folk skjønner den.
 
 - 🌐 Portefølje: [deqa.no](https://deqa.no)
 - 💼 LinkedIn: [linkedin.com/in/deqa-gesod](https://linkedin.com/in/deqa-gesod)
-- 📍 Oslo, Akershus eller Buskerud
-- 🎯 Tilgjengelig for fast stilling 
+- 🎓 Bachelor i IT og informasjonssystemer, USN (2025)
+- 📊 Sertifiserer meg innen Microsoft data og BI (PL-300 først)
+- 🎯 Åpen for fast stilling: konsulent, dataanalytiker eller IT-rolle i Oslo-området
 
-## Skills
-- **Språk:** Java, Python, JavaScript, TypeScript, SQL, HTML/CSS, PHP
-- **Frontend:** Next.js, React, Tailwind, Bootstrap
-- **Backend & DB:** Node.js, PostgreSQL, MySQL, Firebase, REST API
-- **Mobil:** Android (Jetpack Compose, Java/Kotlin)
-- **Data & BI:** Power BI, dataanalyse
-- **AI-verktøy:** Claude Code og Codex som daglige arbeidsverktøy. Claude API i prosjekter.
-- **Verktøy:** Git, Azure (grunnleggende), Scrum/Kanban
+### Hva jeg jobber med
+- **Data og analyse:** henter, modellerer og sammenligner data, og gjør tall om til beslutninger
+- **Rådgivning:** oversetter behov til løsninger, og forklarer teknikken til ikke-tekniske folk
+- **AI-native:** jobber tett med Claude Code og Codex fra idé til ferdig løsning
 
-## Bakgrunn
-Bachelor i IT og informasjonssystemer (USN, 2025). Seks års arbeidserfaring
-som brukerstyrt personlig assistent har lært meg å løse problemer under press,
-kommunisere klart med ulike mennesker, og levere konsistent. Det vil jeg ta
-med inn i et teknisk team.
+### Bakgrunn
+Seks år som BPA (personlig assistent) ved siden av studiet har lært meg å lytte,
+tilpasse meg og bygge tillit raskt. Det tar jeg med inn i rådgivnings- og analyseroller.
+```
 
-## Åpen for
-Junior fullstack, konsulent, dataanalyse, test/QA eller IT-support.
-Spør gjerne om det er noe du lurer på.
+
+
+
