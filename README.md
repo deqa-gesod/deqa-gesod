@@ -1,21 +1,18 @@
 ## Hi, I'm Deqa 👋
 
-Data and BI analyst (part-time) at Bespoke Fit, a startup delivering online
-personal training. What I enjoy most is connecting people and technology:
-figuring out what someone needs, digging into what the data really says, and
-explaining the solution so it makes sense to everyone.
+BSc in IT and Information Systems from USN (2025), based in the Oslo area.
+I work with pricing data every day: collecting it, checking that it is right,
+and following up on what deviates. What I enjoy most is connecting people and
+technology: understanding a need, figuring out what the data actually says,
+and explaining the solution so it makes sense to everyone.
 
 - 🌐 Portfolio: [deqa.no](https://deqa.no)
 - 💼 LinkedIn: [linkedin.com/in/deqa-gesod](https://linkedin.com/in/deqa-gesod)
 - 🎓 BSc in IT and Information Systems, USN (2025)
-- 📊 Power BI · SQL · Excel
-- 📈 Working through Microsoft data & BI certifications (PL-300 first)
-- 🎯 Open to full-time roles in BI, data analysis, CRM or IT support
+- 📊 SQL · Excel · Power BI
+- 🎯 Open to a permanent role in data analysis, administration or coordination
 
-### What I'm building
-I'm the company's first analyst, so the reporting is going up from scratch:
-
-- Defining the KPIs together with the founder
-- Planning what the website and apps should capture
-- Pulling members, payments and sessions into one data model
-- Building reports and dashboards in Power BI
+### Projects
+- [prissammenligner](https://github.com/deqa-gesod/prissammenligner): tracks Norwegian grocery prices across Oda, Meny and Spar, and finds the cheapest store for your basket.
+- [bilverksted](https://github.com/deqa-gesod/bilverksted): bachelor project for a real car workshop, online booking and admin panel. PHP, MySQL.
+- [AuctionApp](https://github.com/deqa-gesod/AuctionApp): Android real-time auction app in Java and Firebase.
